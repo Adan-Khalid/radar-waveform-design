@@ -1,0 +1,9 @@
+design_point,waveform,samples,snr_gain_db,theory_db
+short,LFM (BT 13),13,11.144877,11.139434
+short,Barker 13,13,11.122369,11.139434
+short,P4 13,13,11.155622,11.139434
+short,OFDM 13,13,11.212468,11.139434
+long,LFM (BT 64),64,18.098542,18.0618
+long,Frank 64,64,18.123349,18.0618
+long,P4 64,64,18.062293,18.0618
+long,OFDM 64,64,18.071727,18.0618

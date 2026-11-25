@@ -1,0 +1,6 @@
+window,loss_db
+Rectangular,0
+Hann,1.760956
+Hamming,1.3444347
+"Taylor 35 dB, nbar 5",0.92598961
+Blackman,2.3723566
