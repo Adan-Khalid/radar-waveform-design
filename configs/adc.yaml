@@ -1,0 +1,35 @@
+# Low-bit ADC study. SNR is the post-compression SNR of the unquantized
+# matched filter. One complex sample per range cell (f_s = B).
+
+common:
+  pfa: 1.0e-4
+  pd_target: 0.9
+  noise_statistics: 2000000     # noise-only statistics for each threshold
+  trials_per_snr: 20000         # detection trials at each SNR of the fine grid
+  coarse_trials: 4000           # trials for the coarse grid that brackets Pd = 0.9
+  fine_half_width_db: 1.0       # fine grid: crossing +- this, in steps of fine_step_db
+  fine_step_db: 0.1
+  bootstrap: 1000               # paired bootstrap replicates (Poisson weights)
+  seed: 2026
+
+a1_bits:
+  bits: [null, 4, 3, 2, 1]      # null = unquantized
+  dither: [none, nonsubtractive, subtractive]
+  quantizer: midrise
+  full_scale: gaussian_optimal  # Max's optimal step for a Gaussian input
+  design_points: [short, long]
+
+a2_full_scale:
+  bits: [4, 3, 2, 1]
+  quantizer: [midrise, midtread]
+  dither: [none, nonsubtractive, subtractive]
+  full_scale_over_sigma: {start_db: -12.0, stop_db: 46.0, points: 30}
+  waveform: {name: lfm}
+  time_bandwidth: 64
+
+a3_time_bandwidth:
+  bits: [null, 4, 3, 2, 1]
+  time_bandwidth: [13, 32, 64, 128, 256, 1024]
+  waveform: {name: p4}
+  quantizer: midrise
+  full_scale: gaussian_optimal

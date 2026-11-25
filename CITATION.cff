@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Radar Waveform Design and Matched Filtering: LFM, Phase-Coded and OFDM Pulses with Low-Bit ADC Analysis"
+type: software
+authors:
+  - family-names: Khalid
+    given-names: Adan
+    affiliation: "NUST College of Electrical and Mechanical Engineering"
+version: 1.0.0
+date-released: 2026-11-25
+repository-code: "https://github.com/Adan-Khalid/radar-waveform-design"
+license: MIT
+keywords:
+  - radar
+  - waveform design
+  - pulse compression
+  - matched filter
+  - ambiguity function
+  - low-resolution ADC
+  - quantization
+  - signal processing

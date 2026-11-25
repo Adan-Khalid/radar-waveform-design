@@ -1,0 +1,32 @@
+# Everything here is simulated; large Monte Carlo caches never go into git
+data/*
+!data/README.md
+*.npy
+*.npz
+*.mat
+*.h5
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Local secrets and paths
+.env
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

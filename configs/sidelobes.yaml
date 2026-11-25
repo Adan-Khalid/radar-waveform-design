@@ -1,0 +1,20 @@
+# Sidelobe control: receive windows on LFM, mismatched filters on phase codes.
+
+lfm_windows:
+  time_bandwidth: [13, 64]
+  windows:
+    - {name: rectangular}
+    - {name: hann}
+    - {name: hamming}
+    - {name: taylor, sidelobe_db: 35, nbar: 5}
+    - {name: blackman}
+
+mismatched_filter:
+  codes:
+    - {name: barker, length: 13}
+    - {name: p4, length: 13}
+    - {name: frank, length: 64}
+    - {name: p4, length: 64}
+  length_factors: [1, 2, 3, 4]   # filter length = factor x code length
+  diagonal_loading: 1.0e-9
+  doppler_check_nuT: [0.0, 0.1, 0.25, 0.5]

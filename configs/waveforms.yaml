@@ -1,0 +1,28 @@
+# Waveform design points. Every waveform in one design point has the same
+# bandwidth B and duration T (same time-bandwidth product), and unit energy.
+
+example_radar:            # used only to label plots in physical units
+  carrier_hz: 1.0e+10
+  bandwidth_hz: 1.0e+6    # range resolution c / 2B = 150 m
+
+analysis:
+  samples_per_cell: 8     # samples per 1/B for metrics and ambiguity functions
+  doppler_fft: 4096       # Doppler FFT length for the ambiguity function
+  ofdm_draws: 200         # symbol draws for the OFDM spread
+  seed: 2026
+
+design_points:
+  short:
+    time_bandwidth: 13
+    waveforms:
+      - {name: lfm}
+      - {name: barker, length: 13}
+      - {name: p4, length: 13}
+      - {name: ofdm, subcarriers: 13, modulation: qpsk, seed: 2026}
+  long:
+    time_bandwidth: 64
+    waveforms:
+      - {name: lfm}
+      - {name: frank, length: 64}
+      - {name: p4, length: 64}
+      - {name: ofdm, subcarriers: 64, modulation: qpsk, seed: 2026}
