@@ -1,0 +1,19 @@
+key,value,lo,hi,theory,source,row
+required_snr_unquantized_db,11.752448,11.718456,11.787428,11.749083,reports/adc/a1_losses.csv,"LFM (BT 64), unquantized"
+loss_4bit_bt64_db,0.072900027,0.058315628,0.088179871,0.050421679,reports/adc/a1_losses.csv,"LFM (BT 64), 4 bit"
+loss_3bit_bt64_db,0.16741979,0.1482711,0.18769712,0.16572036,reports/adc/a1_losses.csv,"LFM (BT 64), 3 bit"
+loss_2bit_bt64_db,0.60090491,0.5749727,0.62669288,0.54948208,reports/adc/a1_losses.csv,"LFM (BT 64), 2 bit"
+loss_1bit_bt64_db,2.3426269,2.3028122,2.3820036,1.9611988,reports/adc/a1_losses.csv,"LFM (BT 64), 1 bit"
+loss_1bit_p4_bt13_db,5.4335653,5.369269,5.4983774,1.9611988,reports/adc/a3_losses.csv,"P4 13, 1 bit"
+loss_1bit_p4_bt1024_db,2.0034972,1.9670598,2.043718,1.9611988,reports/adc/a3_losses.csv,"P4 1024, 1 bit"
+loss_3bit_p4_bt1024_db,0.16373177,0.14601463,0.18286504,0.16572036,reports/adc/a3_losses.csv,"P4 1024, 3 bit"
+loss_3bit_fullscale30db_midrise_nodither,2.3426269,2.3028122,2.3820036,1.9611988,reports/adc/a2_losses.csv,"A/sigma 30 dB, 3 bit, midrise, none"
+loss_3bit_fullscale30db_midrise_dither_removed,7.9038132,7.8585092,7.9426508,7.9297503,reports/adc/a2_losses.csv,"A/sigma 30 dB, 3 bit, midrise, subtractive"
+loss_3bit_fullscale30db_midtread_nodither,11.518118,11.477578,11.556147,28.697392,reports/adc/a2_losses.csv,"A/sigma 30 dB, 3 bit, midtread, none"
+barker13_matched_psl_db,-22.278867,,,,reports/sidelobes/mismatched_filters.csv,"Barker 13, matched x1"
+barker13_matched_loss_db,-1.9286549e-15,,,,reports/sidelobes/mismatched_filters.csv,"Barker 13, matched x1"
+barker13_least_squares_psl_db,-38.470819,,,,reports/sidelobes/mismatched_filters.csv,"Barker 13, least squares x3"
+barker13_least_squares_loss_db,0.20441215,,,,reports/sidelobes/mismatched_filters.csv,"Barker 13, least squares x3"
+doppler_3db_nut_frank64,0.44221794,,,,reports/ambiguity/doppler_tolerance.csv,Frank 64
+doppler_3db_nut_p464,0.44221794,,,,reports/ambiguity/doppler_tolerance.csv,P4 64
+doppler_3db_nut_lfm64,18.661467,,,,reports/ambiguity/doppler_tolerance.csv,LFM (BT 64)
