@@ -1,0 +1,12 @@
+setting,value
+pfa,0.0001
+pd_target,0.9
+noise_stats,2000000
+trials,20000
+coarse_trials,4000
+bootstrap,1000
+fine_half_width,1
+fine_step,0.1
+seed,2026
+quick,False
+runtime_s,306

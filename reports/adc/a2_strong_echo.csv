@@ -1,0 +1,43 @@
+bits,kind,dither,strong_echo,papr_db,loss_db_at_0db,loss_db_at_10db,loss_db_at_20db,loss_db_at_30db,loss_db_at_40db
+1,midrise,none,"constant envelope (LFM, phase codes)",0,2.3426269,2.3426269,2.3426269,2.3426269,2.3426269
+1,midrise,none,OFDM 64,7.3078055,2.3426269,2.3426269,2.3426269,2.3426269,
+1,midrise,nonsubtractive,"constant envelope (LFM, phase codes)",0,3.091687,7.2962484,16.523412,26.514106,36.495528
+1,midrise,nonsubtractive,OFDM 64,7.3078055,5.5116305,13.842367,23.814321,33.806597,
+1,midrise,subtractive,"constant envelope (LFM, phase codes)",0,3.1350713,4.6067513,12.399131,22.152844,32.130893
+1,midrise,subtractive,OFDM 64,7.3078055,3.641285,9.9254355,19.470282,29.439404,
+2,midrise,none,"constant envelope (LFM, phase codes)",0,0.82518563,1.4927159,2.3426269,2.3426269,2.3426269
+2,midrise,none,OFDM 64,7.3078055,0.93735133,2.3425899,2.3426269,2.3426269,
+2,midrise,nonsubtractive,"constant envelope (LFM, phase codes)",0,1.0031064,2.7392178,10.595649,20.499382,30.486426
+2,midrise,nonsubtractive,OFDM 64,7.3078055,1.6967895,8.000244,17.808831,27.799094,
+2,midrise,subtractive,"constant envelope (LFM, phase codes)",0,0.85994829,1.5525375,7.1177453,16.226927,26.112613
+2,midrise,subtractive,OFDM 64,7.3078055,0.97151522,5.0726195,13.617063,23.428377,
+2,midtread,none,"constant envelope (LFM, phase codes)",0,1.3871235,1.5871366,10.189991,23.186191,34.029344
+2,midtread,none,OFDM 64,7.3078055,1.1108657,6.8381867,19.953104,31.218562,
+2,midtread,nonsubtractive,"constant envelope (LFM, phase codes)",0,1.5397954,2.7855889,8.1257012,14.506366,21.580482
+2,midtread,nonsubtractive,OFDM 64,7.3078055,2.0155409,6.5725955,12.693087,19.682501,
+2,midtread,subtractive,"constant envelope (LFM, phase codes)",0,1.5416371,1.6981716,7.084625,16.222741,26.127355
+2,midtread,subtractive,OFDM 64,7.3078055,1.3201496,5.067754,13.603275,23.439256,
+3,midrise,none,"constant envelope (LFM, phase codes)",0,0.45148258,0.42152822,2.2642107,2.3426269,2.3426269
+3,midrise,none,OFDM 64,7.3078055,0.24435636,1.8034109,2.3426269,2.3426269,
+3,midrise,nonsubtractive,"constant envelope (LFM, phase codes)",0,0.52190174,0.83751977,5.1004609,14.469774,24.469531
+3,midrise,nonsubtractive,OFDM 64,7.3078055,0.47192048,3.3454703,11.842895,21.7877,
+3,midrise,subtractive,"constant envelope (LFM, phase codes)",0,0.47446481,0.41080074,3.1334421,10.514512,20.12083
+3,midrise,subtractive,OFDM 64,7.3078055,0.24235277,1.9541602,8.1721837,17.46598,
+3,midtread,none,"constant envelope (LFM, phase codes)",0,0.6128624,0.42393069,3.6867869,15.586377,27.650628
+3,midtread,none,OFDM 64,7.3078055,0.26820417,2.0505984,11.950847,24.668573,
+3,midtread,nonsubtractive,"constant envelope (LFM, phase codes)",0,0.69179743,0.81487247,4.6499983,10.604448,17.362841
+3,midtread,nonsubtractive,OFDM 64,7.3078055,0.52386278,3.2347774,8.8908161,15.401675,
+3,midtread,subtractive,"constant envelope (LFM, phase codes)",0,0.61841031,0.44865536,3.1245021,10.499343,20.125819
+3,midtread,subtractive,OFDM 64,7.3078055,0.29175512,1.9537609,8.1240921,17.483612,
+4,midrise,none,"constant envelope (LFM, phase codes)",0,0.3486461,0.11501412,1.0483568,2.3426022,2.3426269
+4,midrise,none,OFDM 64,7.3078055,0.050534258,0.56942978,2.3378409,2.3426269,
+4,midrise,nonsubtractive,"constant envelope (LFM, phase codes)",0,0.37817185,0.22437751,1.887603,8.6214249,18.455972
+4,midrise,nonsubtractive,OFDM 64,7.3078055,0.13660288,1.0749379,6.1250365,15.753779,
+4,midrise,subtractive,"constant envelope (LFM, phase codes)",0,0.34509906,0.10011032,1.0283112,5.5435176,14.252675
+4,midrise,subtractive,OFDM 64,7.3078055,0.045046152,0.55383584,3.7727252,11.698478,
+4,midtread,none,"constant envelope (LFM, phase codes)",0,0.40763936,0.10282841,0.97854119,7.6102904,20.749532
+4,midtread,none,OFDM 64,7.3078055,0.06694613,0.52641741,4.7213438,17.296568,
+4,midtread,nonsubtractive,"constant envelope (LFM, phase codes)",0,0.4315221,0.23081665,1.8706103,6.9431394,13.126939
+4,midtread,nonsubtractive,OFDM 64,7.3078055,0.14849031,1.0656551,5.3750555,11.42104,
+4,midtread,subtractive,"constant envelope (LFM, phase codes)",0,0.41033896,0.10153467,1.0437284,5.5356151,14.237402
+4,midtread,subtractive,OFDM 64,7.3078055,0.085843241,0.5564014,3.8307138,11.667962,

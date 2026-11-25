@@ -1,0 +1,661 @@
+receiver,false_alarms,statistics,pfa_design,pfa_measured,pfa_lo,pfa_hi,design_inside,time_bandwidth,waveform,a_over_sigma_db
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-12
+"4 bit, A/sigma 0.251",121,1000000,0.0001,0.000121,0.00010127665,0.00014456387,False,64,LFM (BT 64),-12
+"4 bit, nonsubtractive dither, A/sigma 0.251",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),-12
+"4 bit, subtractive dither, A/sigma 0.251",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),-12
+"4 bit, midtread, A/sigma 0.251",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),-12
+"4 bit, midtread, nonsubtractive dither, A/sigma 0.251",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),-12
+"4 bit, midtread, subtractive dither, A/sigma 0.251",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),-12
+"3 bit, A/sigma 0.251",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),-12
+"3 bit, nonsubtractive dither, A/sigma 0.251",124,1000000,0.0001,0.000124,0.00010401209,0.0001478284,False,64,LFM (BT 64),-12
+"3 bit, subtractive dither, A/sigma 0.251",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),-12
+"3 bit, midtread, A/sigma 0.251",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),-12
+"3 bit, midtread, nonsubtractive dither, A/sigma 0.251",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),-12
+"3 bit, midtread, subtractive dither, A/sigma 0.251",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),-12
+"2 bit, A/sigma 0.251",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),-12
+"2 bit, nonsubtractive dither, A/sigma 0.251",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),-12
+"2 bit, subtractive dither, A/sigma 0.251",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),-12
+"2 bit, midtread, A/sigma 0.251",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),-12
+"2 bit, midtread, nonsubtractive dither, A/sigma 0.251",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),-12
+"2 bit, midtread, subtractive dither, A/sigma 0.251",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-12
+"1 bit, A/sigma 0.251",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-12
+"1 bit, nonsubtractive dither, A/sigma 0.251",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),-12
+"1 bit, subtractive dither, A/sigma 0.251",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),-12
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-10
+"4 bit, A/sigma 0.316",127,1000000,0.0001,0.000127,0.00010675069,0.00015108978,False,64,LFM (BT 64),-10
+"4 bit, nonsubtractive dither, A/sigma 0.316",123,1000000,0.0001,0.000123,0.00010309992,0.00014674058,False,64,LFM (BT 64),-10
+"4 bit, subtractive dither, A/sigma 0.316",123,1000000,0.0001,0.000123,0.00010309992,0.00014674058,False,64,LFM (BT 64),-10
+"4 bit, midtread, A/sigma 0.316",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),-10
+"4 bit, midtread, nonsubtractive dither, A/sigma 0.316",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),-10
+"4 bit, midtread, subtractive dither, A/sigma 0.316",121,1000000,0.0001,0.000121,0.00010127665,0.00014456387,False,64,LFM (BT 64),-10
+"3 bit, A/sigma 0.316",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),-10
+"3 bit, nonsubtractive dither, A/sigma 0.316",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),-10
+"3 bit, subtractive dither, A/sigma 0.316",127,1000000,0.0001,0.000127,0.00010675069,0.00015108978,False,64,LFM (BT 64),-10
+"3 bit, midtread, A/sigma 0.316",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),-10
+"3 bit, midtread, nonsubtractive dither, A/sigma 0.316",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),-10
+"3 bit, midtread, subtractive dither, A/sigma 0.316",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),-10
+"2 bit, A/sigma 0.316",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),-10
+"2 bit, nonsubtractive dither, A/sigma 0.316",124,1000000,0.0001,0.000124,0.00010401209,0.0001478284,False,64,LFM (BT 64),-10
+"2 bit, subtractive dither, A/sigma 0.316",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),-10
+"2 bit, midtread, A/sigma 0.316",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),-10
+"2 bit, midtread, nonsubtractive dither, A/sigma 0.316",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),-10
+"2 bit, midtread, subtractive dither, A/sigma 0.316",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),-10
+"1 bit, A/sigma 0.316",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-10
+"1 bit, nonsubtractive dither, A/sigma 0.316",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),-10
+"1 bit, subtractive dither, A/sigma 0.316",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),-10
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-8
+"4 bit, A/sigma 0.398",117,1000000,0.0001,0.000117,9.7634507e-05,0.00014020604,True,64,LFM (BT 64),-8
+"4 bit, nonsubtractive dither, A/sigma 0.398",123,1000000,0.0001,0.000123,0.00010309992,0.00014674058,False,64,LFM (BT 64),-8
+"4 bit, subtractive dither, A/sigma 0.398",117,1000000,0.0001,0.000117,9.7634507e-05,0.00014020604,True,64,LFM (BT 64),-8
+"4 bit, midtread, A/sigma 0.398",122,1000000,0.0001,0.000122,0.0001021881,0.0001456524,False,64,LFM (BT 64),-8
+"4 bit, midtread, nonsubtractive dither, A/sigma 0.398",122,1000000,0.0001,0.000122,0.0001021881,0.0001456524,False,64,LFM (BT 64),-8
+"4 bit, midtread, subtractive dither, A/sigma 0.398",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),-8
+"3 bit, A/sigma 0.398",122,1000000,0.0001,0.000122,0.0001021881,0.0001456524,False,64,LFM (BT 64),-8
+"3 bit, nonsubtractive dither, A/sigma 0.398",121,1000000,0.0001,0.000121,0.00010127665,0.00014456387,False,64,LFM (BT 64),-8
+"3 bit, subtractive dither, A/sigma 0.398",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),-8
+"3 bit, midtread, A/sigma 0.398",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),-8
+"3 bit, midtread, nonsubtractive dither, A/sigma 0.398",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),-8
+"3 bit, midtread, subtractive dither, A/sigma 0.398",123,1000000,0.0001,0.000123,0.00010309992,0.00014674058,False,64,LFM (BT 64),-8
+"2 bit, A/sigma 0.398",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),-8
+"2 bit, nonsubtractive dither, A/sigma 0.398",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),-8
+"2 bit, subtractive dither, A/sigma 0.398",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),-8
+"2 bit, midtread, A/sigma 0.398",117,1000000,0.0001,0.000117,9.7634507e-05,0.00014020604,True,64,LFM (BT 64),-8
+"2 bit, midtread, nonsubtractive dither, A/sigma 0.398",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),-8
+"2 bit, midtread, subtractive dither, A/sigma 0.398",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),-8
+"1 bit, A/sigma 0.398",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-8
+"1 bit, nonsubtractive dither, A/sigma 0.398",118,1000000,0.0001,0.000118,9.854448e-05,0.00014129606,True,64,LFM (BT 64),-8
+"1 bit, subtractive dither, A/sigma 0.398",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),-8
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-6
+"4 bit, A/sigma 0.501",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),-6
+"4 bit, nonsubtractive dither, A/sigma 0.501",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),-6
+"4 bit, subtractive dither, A/sigma 0.501",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),-6
+"4 bit, midtread, A/sigma 0.501",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-6
+"4 bit, midtread, nonsubtractive dither, A/sigma 0.501",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),-6
+"4 bit, midtread, subtractive dither, A/sigma 0.501",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),-6
+"3 bit, A/sigma 0.501",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),-6
+"3 bit, nonsubtractive dither, A/sigma 0.501",118,1000000,0.0001,0.000118,9.854448e-05,0.00014129606,True,64,LFM (BT 64),-6
+"3 bit, subtractive dither, A/sigma 0.501",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),-6
+"3 bit, midtread, A/sigma 0.501",123,1000000,0.0001,0.000123,0.00010309992,0.00014674058,False,64,LFM (BT 64),-6
+"3 bit, midtread, nonsubtractive dither, A/sigma 0.501",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),-6
+"3 bit, midtread, subtractive dither, A/sigma 0.501",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),-6
+"2 bit, A/sigma 0.501",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),-6
+"2 bit, nonsubtractive dither, A/sigma 0.501",123,1000000,0.0001,0.000123,0.00010309992,0.00014674058,False,64,LFM (BT 64),-6
+"2 bit, subtractive dither, A/sigma 0.501",118,1000000,0.0001,0.000118,9.854448e-05,0.00014129606,True,64,LFM (BT 64),-6
+"2 bit, midtread, A/sigma 0.501",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),-6
+"2 bit, midtread, nonsubtractive dither, A/sigma 0.501",122,1000000,0.0001,0.000122,0.0001021881,0.0001456524,False,64,LFM (BT 64),-6
+"2 bit, midtread, subtractive dither, A/sigma 0.501",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),-6
+"1 bit, A/sigma 0.501",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-6
+"1 bit, nonsubtractive dither, A/sigma 0.501",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),-6
+"1 bit, subtractive dither, A/sigma 0.501",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),-6
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-4
+"4 bit, A/sigma 0.631",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),-4
+"4 bit, nonsubtractive dither, A/sigma 0.631",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-4
+"4 bit, subtractive dither, A/sigma 0.631",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),-4
+"4 bit, midtread, A/sigma 0.631",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),-4
+"4 bit, midtread, nonsubtractive dither, A/sigma 0.631",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),-4
+"4 bit, midtread, subtractive dither, A/sigma 0.631",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-4
+"3 bit, A/sigma 0.631",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),-4
+"3 bit, nonsubtractive dither, A/sigma 0.631",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),-4
+"3 bit, subtractive dither, A/sigma 0.631",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),-4
+"3 bit, midtread, A/sigma 0.631",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),-4
+"3 bit, midtread, nonsubtractive dither, A/sigma 0.631",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),-4
+"3 bit, midtread, subtractive dither, A/sigma 0.631",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),-4
+"2 bit, A/sigma 0.631",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),-4
+"2 bit, nonsubtractive dither, A/sigma 0.631",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),-4
+"2 bit, subtractive dither, A/sigma 0.631",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-4
+"2 bit, midtread, A/sigma 0.631",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-4
+"2 bit, midtread, nonsubtractive dither, A/sigma 0.631",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),-4
+"2 bit, midtread, subtractive dither, A/sigma 0.631",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),-4
+"1 bit, A/sigma 0.631",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-4
+"1 bit, nonsubtractive dither, A/sigma 0.631",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),-4
+"1 bit, subtractive dither, A/sigma 0.631",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-4
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-2
+"4 bit, A/sigma 0.794",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),-2
+"4 bit, nonsubtractive dither, A/sigma 0.794",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),-2
+"4 bit, subtractive dither, A/sigma 0.794",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),-2
+"4 bit, midtread, A/sigma 0.794",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),-2
+"4 bit, midtread, nonsubtractive dither, A/sigma 0.794",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-2
+"4 bit, midtread, subtractive dither, A/sigma 0.794",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),-2
+"3 bit, A/sigma 0.794",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),-2
+"3 bit, nonsubtractive dither, A/sigma 0.794",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),-2
+"3 bit, subtractive dither, A/sigma 0.794",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),-2
+"3 bit, midtread, A/sigma 0.794",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),-2
+"3 bit, midtread, nonsubtractive dither, A/sigma 0.794",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),-2
+"3 bit, midtread, subtractive dither, A/sigma 0.794",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),-2
+"2 bit, A/sigma 0.794",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),-2
+"2 bit, nonsubtractive dither, A/sigma 0.794",117,1000000,0.0001,0.000117,9.7634507e-05,0.00014020604,True,64,LFM (BT 64),-2
+"2 bit, subtractive dither, A/sigma 0.794",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),-2
+"2 bit, midtread, A/sigma 0.794",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),-2
+"2 bit, midtread, nonsubtractive dither, A/sigma 0.794",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),-2
+"2 bit, midtread, subtractive dither, A/sigma 0.794",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),-2
+"1 bit, A/sigma 0.794",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),-2
+"1 bit, nonsubtractive dither, A/sigma 0.794",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),-2
+"1 bit, subtractive dither, A/sigma 0.794",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),-2
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),0
+"4 bit, A/sigma 1",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),0
+"4 bit, nonsubtractive dither, A/sigma 1",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),0
+"4 bit, subtractive dither, A/sigma 1",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),0
+"4 bit, midtread, A/sigma 1",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),0
+"4 bit, midtread, nonsubtractive dither, A/sigma 1",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),0
+"4 bit, midtread, subtractive dither, A/sigma 1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),0
+"3 bit, A/sigma 1",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),0
+"3 bit, nonsubtractive dither, A/sigma 1",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),0
+"3 bit, subtractive dither, A/sigma 1",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),0
+"3 bit, midtread, A/sigma 1",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),0
+"3 bit, midtread, nonsubtractive dither, A/sigma 1",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),0
+"3 bit, midtread, subtractive dither, A/sigma 1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),0
+"2 bit, A/sigma 1",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),0
+"2 bit, nonsubtractive dither, A/sigma 1",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),0
+"2 bit, subtractive dither, A/sigma 1",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),0
+"2 bit, midtread, A/sigma 1",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),0
+"2 bit, midtread, nonsubtractive dither, A/sigma 1",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),0
+"2 bit, midtread, subtractive dither, A/sigma 1",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),0
+"1 bit, A/sigma 1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),0
+"1 bit, nonsubtractive dither, A/sigma 1",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),0
+"1 bit, subtractive dither, A/sigma 1",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),0
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),2
+"4 bit, A/sigma 1.26",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),2
+"4 bit, nonsubtractive dither, A/sigma 1.26",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),2
+"4 bit, subtractive dither, A/sigma 1.26",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),2
+"4 bit, midtread, A/sigma 1.26",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),2
+"4 bit, midtread, nonsubtractive dither, A/sigma 1.26",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),2
+"4 bit, midtread, subtractive dither, A/sigma 1.26",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),2
+"3 bit, A/sigma 1.26",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),2
+"3 bit, nonsubtractive dither, A/sigma 1.26",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),2
+"3 bit, subtractive dither, A/sigma 1.26",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),2
+"3 bit, midtread, A/sigma 1.26",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),2
+"3 bit, midtread, nonsubtractive dither, A/sigma 1.26",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),2
+"3 bit, midtread, subtractive dither, A/sigma 1.26",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),2
+"2 bit, A/sigma 1.26",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),2
+"2 bit, nonsubtractive dither, A/sigma 1.26",79,1000000,0.0001,7.9e-05,6.3395062e-05,9.8445775e-05,False,64,LFM (BT 64),2
+"2 bit, subtractive dither, A/sigma 1.26",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),2
+"2 bit, midtread, A/sigma 1.26",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),2
+"2 bit, midtread, nonsubtractive dither, A/sigma 1.26",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),2
+"2 bit, midtread, subtractive dither, A/sigma 1.26",84,1000000,0.0001,8.4e-05,6.7855457e-05,0.00010398534,True,64,LFM (BT 64),2
+"1 bit, A/sigma 1.26",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),2
+"1 bit, nonsubtractive dither, A/sigma 1.26",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),2
+"1 bit, subtractive dither, A/sigma 1.26",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),2
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),4
+"4 bit, A/sigma 1.58",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),4
+"4 bit, nonsubtractive dither, A/sigma 1.58",85,1000000,0.0001,8.5e-05,6.874946e-05,0.00010509133,True,64,LFM (BT 64),4
+"4 bit, subtractive dither, A/sigma 1.58",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),4
+"4 bit, midtread, A/sigma 1.58",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),4
+"4 bit, midtread, nonsubtractive dither, A/sigma 1.58",86,1000000,0.0001,8.6e-05,6.9644077e-05,0.00010619671,True,64,LFM (BT 64),4
+"4 bit, midtread, subtractive dither, A/sigma 1.58",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),4
+"3 bit, A/sigma 1.58",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),4
+"3 bit, nonsubtractive dither, A/sigma 1.58",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),4
+"3 bit, subtractive dither, A/sigma 1.58",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),4
+"3 bit, midtread, A/sigma 1.58",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),4
+"3 bit, midtread, nonsubtractive dither, A/sigma 1.58",81,1000000,0.0001,8.1e-05,6.517725e-05,0.00010066357,True,64,LFM (BT 64),4
+"3 bit, midtread, subtractive dither, A/sigma 1.58",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),4
+"2 bit, A/sigma 1.58",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),4
+"2 bit, nonsubtractive dither, A/sigma 1.58",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),4
+"2 bit, subtractive dither, A/sigma 1.58",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),4
+"2 bit, midtread, A/sigma 1.58",83,1000000,0.0001,8.3e-05,6.6962081e-05,0.00010287873,True,64,LFM (BT 64),4
+"2 bit, midtread, nonsubtractive dither, A/sigma 1.58",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),4
+"2 bit, midtread, subtractive dither, A/sigma 1.58",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),4
+"1 bit, A/sigma 1.58",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),4
+"1 bit, nonsubtractive dither, A/sigma 1.58",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),4
+"1 bit, subtractive dither, A/sigma 1.58",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),4
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),6
+"4 bit, A/sigma 2",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),6
+"4 bit, nonsubtractive dither, A/sigma 2",77,1000000,0.0001,7.7e-05,6.1615616e-05,9.6225237e-05,False,64,LFM (BT 64),6
+"4 bit, subtractive dither, A/sigma 2",81,1000000,0.0001,8.1e-05,6.517725e-05,0.00010066357,True,64,LFM (BT 64),6
+"4 bit, midtread, A/sigma 2",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),6
+"4 bit, midtread, nonsubtractive dither, A/sigma 2",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),6
+"4 bit, midtread, subtractive dither, A/sigma 2",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),6
+"3 bit, A/sigma 2",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),6
+"3 bit, nonsubtractive dither, A/sigma 2",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),6
+"3 bit, subtractive dither, A/sigma 2",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),6
+"3 bit, midtread, A/sigma 2",81,1000000,0.0001,8.1e-05,6.517725e-05,0.00010066357,True,64,LFM (BT 64),6
+"3 bit, midtread, nonsubtractive dither, A/sigma 2",85,1000000,0.0001,8.5e-05,6.874946e-05,0.00010509133,True,64,LFM (BT 64),6
+"3 bit, midtread, subtractive dither, A/sigma 2",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),6
+"2 bit, A/sigma 2",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),6
+"2 bit, nonsubtractive dither, A/sigma 2",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),6
+"2 bit, subtractive dither, A/sigma 2",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),6
+"2 bit, midtread, A/sigma 2",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),6
+"2 bit, midtread, nonsubtractive dither, A/sigma 2",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),6
+"2 bit, midtread, subtractive dither, A/sigma 2",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),6
+"1 bit, A/sigma 2",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),6
+"1 bit, nonsubtractive dither, A/sigma 2",86,1000000,0.0001,8.6e-05,6.9644077e-05,0.00010619671,True,64,LFM (BT 64),6
+"1 bit, subtractive dither, A/sigma 2",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),6
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),8
+"4 bit, A/sigma 2.51",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),8
+"4 bit, nonsubtractive dither, A/sigma 2.51",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),8
+"4 bit, subtractive dither, A/sigma 2.51",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),8
+"4 bit, midtread, A/sigma 2.51",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),8
+"4 bit, midtread, nonsubtractive dither, A/sigma 2.51",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),8
+"4 bit, midtread, subtractive dither, A/sigma 2.51",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),8
+"3 bit, A/sigma 2.51",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),8
+"3 bit, nonsubtractive dither, A/sigma 2.51",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),8
+"3 bit, subtractive dither, A/sigma 2.51",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),8
+"3 bit, midtread, A/sigma 2.51",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),8
+"3 bit, midtread, nonsubtractive dither, A/sigma 2.51",82,1000000,0.0001,8.2e-05,6.6069341e-05,0.00010177147,True,64,LFM (BT 64),8
+"3 bit, midtread, subtractive dither, A/sigma 2.51",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),8
+"2 bit, A/sigma 2.51",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),8
+"2 bit, nonsubtractive dither, A/sigma 2.51",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),8
+"2 bit, subtractive dither, A/sigma 2.51",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),8
+"2 bit, midtread, A/sigma 2.51",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),8
+"2 bit, midtread, nonsubtractive dither, A/sigma 2.51",85,1000000,0.0001,8.5e-05,6.874946e-05,0.00010509133,True,64,LFM (BT 64),8
+"2 bit, midtread, subtractive dither, A/sigma 2.51",86,1000000,0.0001,8.6e-05,6.9644077e-05,0.00010619671,True,64,LFM (BT 64),8
+"1 bit, A/sigma 2.51",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),8
+"1 bit, nonsubtractive dither, A/sigma 2.51",86,1000000,0.0001,8.6e-05,6.9644077e-05,0.00010619671,True,64,LFM (BT 64),8
+"1 bit, subtractive dither, A/sigma 2.51",79,1000000,0.0001,7.9e-05,6.3395062e-05,9.8445775e-05,False,64,LFM (BT 64),8
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),10
+"4 bit, A/sigma 3.16",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),10
+"4 bit, nonsubtractive dither, A/sigma 3.16",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),10
+"4 bit, subtractive dither, A/sigma 3.16",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),10
+"4 bit, midtread, A/sigma 3.16",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),10
+"4 bit, midtread, nonsubtractive dither, A/sigma 3.16",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),10
+"4 bit, midtread, subtractive dither, A/sigma 3.16",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),10
+"3 bit, A/sigma 3.16",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),10
+"3 bit, nonsubtractive dither, A/sigma 3.16",84,1000000,0.0001,8.4e-05,6.7855457e-05,0.00010398534,True,64,LFM (BT 64),10
+"3 bit, subtractive dither, A/sigma 3.16",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),10
+"3 bit, midtread, A/sigma 3.16",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),10
+"3 bit, midtread, nonsubtractive dither, A/sigma 3.16",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),10
+"3 bit, midtread, subtractive dither, A/sigma 3.16",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),10
+"2 bit, A/sigma 3.16",74,1000000,0.0001,7.4e-05,5.8951822e-05,9.2889053e-05,False,64,LFM (BT 64),10
+"2 bit, nonsubtractive dither, A/sigma 3.16",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),10
+"2 bit, subtractive dither, A/sigma 3.16",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),10
+"2 bit, midtread, A/sigma 3.16",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),10
+"2 bit, midtread, nonsubtractive dither, A/sigma 3.16",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),10
+"2 bit, midtread, subtractive dither, A/sigma 3.16",76,1000000,0.0001,7.6e-05,6.0726954e-05,9.5113906e-05,False,64,LFM (BT 64),10
+"1 bit, A/sigma 3.16",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),10
+"1 bit, nonsubtractive dither, A/sigma 3.16",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),10
+"1 bit, subtractive dither, A/sigma 3.16",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),10
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),12
+"4 bit, A/sigma 3.98",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),12
+"4 bit, nonsubtractive dither, A/sigma 3.98",86,1000000,0.0001,8.6e-05,6.9644077e-05,0.00010619671,True,64,LFM (BT 64),12
+"4 bit, subtractive dither, A/sigma 3.98",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),12
+"4 bit, midtread, A/sigma 3.98",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),12
+"4 bit, midtread, nonsubtractive dither, A/sigma 3.98",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),12
+"4 bit, midtread, subtractive dither, A/sigma 3.98",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),12
+"3 bit, A/sigma 3.98",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),12
+"3 bit, nonsubtractive dither, A/sigma 3.98",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),12
+"3 bit, subtractive dither, A/sigma 3.98",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),12
+"3 bit, midtread, A/sigma 3.98",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),12
+"3 bit, midtread, nonsubtractive dither, A/sigma 3.98",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),12
+"3 bit, midtread, subtractive dither, A/sigma 3.98",86,1000000,0.0001,8.6e-05,6.9644077e-05,0.00010619671,True,64,LFM (BT 64),12
+"2 bit, A/sigma 3.98",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),12
+"2 bit, nonsubtractive dither, A/sigma 3.98",83,1000000,0.0001,8.3e-05,6.6962081e-05,0.00010287873,True,64,LFM (BT 64),12
+"2 bit, subtractive dither, A/sigma 3.98",84,1000000,0.0001,8.4e-05,6.7855457e-05,0.00010398534,True,64,LFM (BT 64),12
+"2 bit, midtread, A/sigma 3.98",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),12
+"2 bit, midtread, nonsubtractive dither, A/sigma 3.98",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),12
+"2 bit, midtread, subtractive dither, A/sigma 3.98",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),12
+"1 bit, A/sigma 3.98",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),12
+"1 bit, nonsubtractive dither, A/sigma 3.98",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),12
+"1 bit, subtractive dither, A/sigma 3.98",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),12
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),14
+"4 bit, A/sigma 5.01",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),14
+"4 bit, nonsubtractive dither, A/sigma 5.01",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),14
+"4 bit, subtractive dither, A/sigma 5.01",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),14
+"4 bit, midtread, A/sigma 5.01",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),14
+"4 bit, midtread, nonsubtractive dither, A/sigma 5.01",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),14
+"4 bit, midtread, subtractive dither, A/sigma 5.01",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),14
+"3 bit, A/sigma 5.01",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),14
+"3 bit, nonsubtractive dither, A/sigma 5.01",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),14
+"3 bit, subtractive dither, A/sigma 5.01",124,1000000,0.0001,0.000124,0.00010401209,0.0001478284,False,64,LFM (BT 64),14
+"3 bit, midtread, A/sigma 5.01",125,1000000,0.0001,0.000125,0.00010492461,0.00014891587,False,64,LFM (BT 64),14
+"3 bit, midtread, nonsubtractive dither, A/sigma 5.01",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),14
+"3 bit, midtread, subtractive dither, A/sigma 5.01",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),14
+"2 bit, A/sigma 5.01",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),14
+"2 bit, nonsubtractive dither, A/sigma 5.01",79,1000000,0.0001,7.9e-05,6.3395062e-05,9.8445775e-05,False,64,LFM (BT 64),14
+"2 bit, subtractive dither, A/sigma 5.01",85,1000000,0.0001,8.5e-05,6.874946e-05,0.00010509133,True,64,LFM (BT 64),14
+"2 bit, midtread, A/sigma 5.01",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),14
+"2 bit, midtread, nonsubtractive dither, A/sigma 5.01",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),14
+"2 bit, midtread, subtractive dither, A/sigma 5.01",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),14
+"1 bit, A/sigma 5.01",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),14
+"1 bit, nonsubtractive dither, A/sigma 5.01",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),14
+"1 bit, subtractive dither, A/sigma 5.01",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),14
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),16
+"4 bit, A/sigma 6.31",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),16
+"4 bit, nonsubtractive dither, A/sigma 6.31",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),16
+"4 bit, subtractive dither, A/sigma 6.31",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),16
+"4 bit, midtread, A/sigma 6.31",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),16
+"4 bit, midtread, nonsubtractive dither, A/sigma 6.31",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),16
+"4 bit, midtread, subtractive dither, A/sigma 6.31",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),16
+"3 bit, A/sigma 6.31",75,1000000,0.0001,7.5e-05,5.9839018e-05,9.400185e-05,False,64,LFM (BT 64),16
+"3 bit, nonsubtractive dither, A/sigma 6.31",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),16
+"3 bit, subtractive dither, A/sigma 6.31",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),16
+"3 bit, midtread, A/sigma 6.31",82,1000000,0.0001,8.2e-05,6.6069341e-05,0.00010177147,True,64,LFM (BT 64),16
+"3 bit, midtread, nonsubtractive dither, A/sigma 6.31",74,1000000,0.0001,7.4e-05,5.8951822e-05,9.2889053e-05,False,64,LFM (BT 64),16
+"3 bit, midtread, subtractive dither, A/sigma 6.31",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),16
+"2 bit, A/sigma 6.31",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),16
+"2 bit, nonsubtractive dither, A/sigma 6.31",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),16
+"2 bit, subtractive dither, A/sigma 6.31",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),16
+"2 bit, midtread, A/sigma 6.31",77,1000000,0.0001,7.7e-05,6.1615616e-05,9.6225237e-05,False,64,LFM (BT 64),16
+"2 bit, midtread, nonsubtractive dither, A/sigma 6.31",127,1000000,0.0001,0.000127,0.00010675069,0.00015108978,False,64,LFM (BT 64),16
+"2 bit, midtread, subtractive dither, A/sigma 6.31",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),16
+"1 bit, A/sigma 6.31",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),16
+"1 bit, nonsubtractive dither, A/sigma 6.31",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),16
+"1 bit, subtractive dither, A/sigma 6.31",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),16
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),18
+"4 bit, A/sigma 7.94",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),18
+"4 bit, nonsubtractive dither, A/sigma 7.94",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),18
+"4 bit, subtractive dither, A/sigma 7.94",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),18
+"4 bit, midtread, A/sigma 7.94",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),18
+"4 bit, midtread, nonsubtractive dither, A/sigma 7.94",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),18
+"4 bit, midtread, subtractive dither, A/sigma 7.94",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),18
+"3 bit, A/sigma 7.94",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),18
+"3 bit, nonsubtractive dither, A/sigma 7.94",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),18
+"3 bit, subtractive dither, A/sigma 7.94",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),18
+"3 bit, midtread, A/sigma 7.94",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),18
+"3 bit, midtread, nonsubtractive dither, A/sigma 7.94",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),18
+"3 bit, midtread, subtractive dither, A/sigma 7.94",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),18
+"2 bit, A/sigma 7.94",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),18
+"2 bit, nonsubtractive dither, A/sigma 7.94",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),18
+"2 bit, subtractive dither, A/sigma 7.94",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),18
+"2 bit, midtread, A/sigma 7.94",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),18
+"2 bit, midtread, nonsubtractive dither, A/sigma 7.94",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),18
+"2 bit, midtread, subtractive dither, A/sigma 7.94",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),18
+"1 bit, A/sigma 7.94",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),18
+"1 bit, nonsubtractive dither, A/sigma 7.94",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),18
+"1 bit, subtractive dither, A/sigma 7.94",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),18
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),20
+"4 bit, A/sigma 10",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),20
+"4 bit, nonsubtractive dither, A/sigma 10",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),20
+"4 bit, subtractive dither, A/sigma 10",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),20
+"4 bit, midtread, A/sigma 10",130,1000000,0.0001,0.00013,0.00010949234,0.00015434811,False,64,LFM (BT 64),20
+"4 bit, midtread, nonsubtractive dither, A/sigma 10",87,1000000,0.0001,8.7e-05,7.0539298e-05,0.00010730148,True,64,LFM (BT 64),20
+"4 bit, midtread, subtractive dither, A/sigma 10",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),20
+"3 bit, A/sigma 10",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),20
+"3 bit, nonsubtractive dither, A/sigma 10",80,1000000,0.0001,8e-05,6.428582e-05,9.955501e-05,False,64,LFM (BT 64),20
+"3 bit, subtractive dither, A/sigma 10",83,1000000,0.0001,8.3e-05,6.6962081e-05,0.00010287873,True,64,LFM (BT 64),20
+"3 bit, midtread, A/sigma 10",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),20
+"3 bit, midtread, nonsubtractive dither, A/sigma 10",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),20
+"3 bit, midtread, subtractive dither, A/sigma 10",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),20
+"2 bit, A/sigma 10",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),20
+"2 bit, nonsubtractive dither, A/sigma 10",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),20
+"2 bit, subtractive dither, A/sigma 10",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),20
+"2 bit, midtread, A/sigma 10",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),20
+"2 bit, midtread, nonsubtractive dither, A/sigma 10",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),20
+"2 bit, midtread, subtractive dither, A/sigma 10",122,1000000,0.0001,0.000122,0.0001021881,0.0001456524,False,64,LFM (BT 64),20
+"1 bit, A/sigma 10",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),20
+"1 bit, nonsubtractive dither, A/sigma 10",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),20
+"1 bit, subtractive dither, A/sigma 10",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),20
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),22
+"4 bit, A/sigma 12.6",74,1000000,0.0001,7.4e-05,5.8951822e-05,9.2889053e-05,False,64,LFM (BT 64),22
+"4 bit, nonsubtractive dither, A/sigma 12.6",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),22
+"4 bit, subtractive dither, A/sigma 12.6",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),22
+"4 bit, midtread, A/sigma 12.6",86,1000000,0.0001,8.6e-05,6.9644077e-05,0.00010619671,True,64,LFM (BT 64),22
+"4 bit, midtread, nonsubtractive dither, A/sigma 12.6",77,1000000,0.0001,7.7e-05,6.1615616e-05,9.6225237e-05,False,64,LFM (BT 64),22
+"4 bit, midtread, subtractive dither, A/sigma 12.6",85,1000000,0.0001,8.5e-05,6.874946e-05,0.00010509133,True,64,LFM (BT 64),22
+"3 bit, A/sigma 12.6",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),22
+"3 bit, nonsubtractive dither, A/sigma 12.6",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),22
+"3 bit, subtractive dither, A/sigma 12.6",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),22
+"3 bit, midtread, A/sigma 12.6",79,1000000,0.0001,7.9e-05,6.3395062e-05,9.8445775e-05,False,64,LFM (BT 64),22
+"3 bit, midtread, nonsubtractive dither, A/sigma 12.6",121,1000000,0.0001,0.000121,0.00010127665,0.00014456387,False,64,LFM (BT 64),22
+"3 bit, midtread, subtractive dither, A/sigma 12.6",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),22
+"2 bit, A/sigma 12.6",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),22
+"2 bit, nonsubtractive dither, A/sigma 12.6",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),22
+"2 bit, subtractive dither, A/sigma 12.6",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),22
+"2 bit, midtread, A/sigma 12.6",149,1000000,0.0001,0.000149,0.00012692063,0.00017491967,False,64,LFM (BT 64),22
+"2 bit, midtread, nonsubtractive dither, A/sigma 12.6",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),22
+"2 bit, midtread, subtractive dither, A/sigma 12.6",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),22
+"1 bit, A/sigma 12.6",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),22
+"1 bit, nonsubtractive dither, A/sigma 12.6",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),22
+"1 bit, subtractive dither, A/sigma 12.6",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),22
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),24
+"4 bit, A/sigma 15.8",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),24
+"4 bit, nonsubtractive dither, A/sigma 15.8",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),24
+"4 bit, subtractive dither, A/sigma 15.8",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),24
+"4 bit, midtread, A/sigma 15.8",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),24
+"4 bit, midtread, nonsubtractive dither, A/sigma 15.8",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),24
+"4 bit, midtread, subtractive dither, A/sigma 15.8",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),24
+"3 bit, A/sigma 15.8",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),24
+"3 bit, nonsubtractive dither, A/sigma 15.8",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),24
+"3 bit, subtractive dither, A/sigma 15.8",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),24
+"3 bit, midtread, A/sigma 15.8",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),24
+"3 bit, midtread, nonsubtractive dither, A/sigma 15.8",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),24
+"3 bit, midtread, subtractive dither, A/sigma 15.8",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),24
+"2 bit, A/sigma 15.8",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),24
+"2 bit, nonsubtractive dither, A/sigma 15.8",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),24
+"2 bit, subtractive dither, A/sigma 15.8",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),24
+"2 bit, midtread, A/sigma 15.8",139,1000000,0.0001,0.000139,0.00011773455,0.00016410582,False,64,LFM (BT 64),24
+"2 bit, midtread, nonsubtractive dither, A/sigma 15.8",125,1000000,0.0001,0.000125,0.00010492461,0.00014891587,False,64,LFM (BT 64),24
+"2 bit, midtread, subtractive dither, A/sigma 15.8",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),24
+"1 bit, A/sigma 15.8",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),24
+"1 bit, nonsubtractive dither, A/sigma 15.8",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),24
+"1 bit, subtractive dither, A/sigma 15.8",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),24
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),26
+"4 bit, A/sigma 20",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),26
+"4 bit, nonsubtractive dither, A/sigma 20",81,1000000,0.0001,8.1e-05,6.517725e-05,0.00010066357,True,64,LFM (BT 64),26
+"4 bit, subtractive dither, A/sigma 20",84,1000000,0.0001,8.4e-05,6.7855457e-05,0.00010398534,True,64,LFM (BT 64),26
+"4 bit, midtread, A/sigma 20",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),26
+"4 bit, midtread, nonsubtractive dither, A/sigma 20",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),26
+"4 bit, midtread, subtractive dither, A/sigma 20",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),26
+"3 bit, A/sigma 20",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),26
+"3 bit, nonsubtractive dither, A/sigma 20",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),26
+"3 bit, subtractive dither, A/sigma 20",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),26
+"3 bit, midtread, A/sigma 20",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),26
+"3 bit, midtread, nonsubtractive dither, A/sigma 20",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),26
+"3 bit, midtread, subtractive dither, A/sigma 20",126,1000000,0.0001,0.000126,0.00010583748,0.000150003,False,64,LFM (BT 64),26
+"2 bit, A/sigma 20",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),26
+"2 bit, nonsubtractive dither, A/sigma 20",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),26
+"2 bit, subtractive dither, A/sigma 20",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),26
+"2 bit, midtread, A/sigma 20",155,1000000,0.0001,0.000155,0.00013244527,0.00018139498,False,64,LFM (BT 64),26
+"2 bit, midtread, nonsubtractive dither, A/sigma 20",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),26
+"2 bit, midtread, subtractive dither, A/sigma 20",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),26
+"1 bit, A/sigma 20",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),26
+"1 bit, nonsubtractive dither, A/sigma 20",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),26
+"1 bit, subtractive dither, A/sigma 20",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),26
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),28
+"4 bit, A/sigma 25.1",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),28
+"4 bit, nonsubtractive dither, A/sigma 25.1",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),28
+"4 bit, subtractive dither, A/sigma 25.1",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),28
+"4 bit, midtread, A/sigma 25.1",82,1000000,0.0001,8.2e-05,6.6069341e-05,0.00010177147,True,64,LFM (BT 64),28
+"4 bit, midtread, nonsubtractive dither, A/sigma 25.1",122,1000000,0.0001,0.000122,0.0001021881,0.0001456524,False,64,LFM (BT 64),28
+"4 bit, midtread, subtractive dither, A/sigma 25.1",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),28
+"3 bit, A/sigma 25.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),28
+"3 bit, nonsubtractive dither, A/sigma 25.1",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),28
+"3 bit, subtractive dither, A/sigma 25.1",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),28
+"3 bit, midtread, A/sigma 25.1",156,1000000,0.0001,0.000156,0.00013336694,0.0001824733,False,64,LFM (BT 64),28
+"3 bit, midtread, nonsubtractive dither, A/sigma 25.1",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),28
+"3 bit, midtread, subtractive dither, A/sigma 25.1",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),28
+"2 bit, A/sigma 25.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),28
+"2 bit, nonsubtractive dither, A/sigma 25.1",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),28
+"2 bit, subtractive dither, A/sigma 25.1",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),28
+"2 bit, midtread, A/sigma 25.1",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),28
+"2 bit, midtread, nonsubtractive dither, A/sigma 25.1",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),28
+"2 bit, midtread, subtractive dither, A/sigma 25.1",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),28
+"1 bit, A/sigma 25.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),28
+"1 bit, nonsubtractive dither, A/sigma 25.1",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),28
+"1 bit, subtractive dither, A/sigma 25.1",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),28
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),30
+"4 bit, A/sigma 31.6",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),30
+"4 bit, nonsubtractive dither, A/sigma 31.6",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),30
+"4 bit, subtractive dither, A/sigma 31.6",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),30
+"4 bit, midtread, A/sigma 31.6",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),30
+"4 bit, midtread, nonsubtractive dither, A/sigma 31.6",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),30
+"4 bit, midtread, subtractive dither, A/sigma 31.6",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),30
+"3 bit, A/sigma 31.6",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),30
+"3 bit, nonsubtractive dither, A/sigma 31.6",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),30
+"3 bit, subtractive dither, A/sigma 31.6",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),30
+"3 bit, midtread, A/sigma 31.6",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),30
+"3 bit, midtread, nonsubtractive dither, A/sigma 31.6",122,1000000,0.0001,0.000122,0.0001021881,0.0001456524,False,64,LFM (BT 64),30
+"3 bit, midtread, subtractive dither, A/sigma 31.6",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),30
+"2 bit, A/sigma 31.6",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),30
+"2 bit, nonsubtractive dither, A/sigma 31.6",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),30
+"2 bit, subtractive dither, A/sigma 31.6",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),30
+"2 bit, midtread, A/sigma 31.6",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),30
+"2 bit, midtread, nonsubtractive dither, A/sigma 31.6",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),30
+"2 bit, midtread, subtractive dither, A/sigma 31.6",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),30
+"1 bit, A/sigma 31.6",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),30
+"1 bit, nonsubtractive dither, A/sigma 31.6",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),30
+"1 bit, subtractive dither, A/sigma 31.6",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),30
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),32
+"4 bit, A/sigma 39.8",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),32
+"4 bit, nonsubtractive dither, A/sigma 39.8",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),32
+"4 bit, subtractive dither, A/sigma 39.8",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),32
+"4 bit, midtread, A/sigma 39.8",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),32
+"4 bit, midtread, nonsubtractive dither, A/sigma 39.8",118,1000000,0.0001,0.000118,9.854448e-05,0.00014129606,True,64,LFM (BT 64),32
+"4 bit, midtread, subtractive dither, A/sigma 39.8",125,1000000,0.0001,0.000125,0.00010492461,0.00014891587,False,64,LFM (BT 64),32
+"3 bit, A/sigma 39.8",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),32
+"3 bit, nonsubtractive dither, A/sigma 39.8",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),32
+"3 bit, subtractive dither, A/sigma 39.8",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),32
+"3 bit, midtread, A/sigma 39.8",151,1000000,0.0001,0.000151,0.00012876114,0.00017707914,False,64,LFM (BT 64),32
+"3 bit, midtread, nonsubtractive dither, A/sigma 39.8",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),32
+"3 bit, midtread, subtractive dither, A/sigma 39.8",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),32
+"2 bit, A/sigma 39.8",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),32
+"2 bit, nonsubtractive dither, A/sigma 39.8",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),32
+"2 bit, subtractive dither, A/sigma 39.8",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),32
+"2 bit, midtread, A/sigma 39.8",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),32
+"2 bit, midtread, nonsubtractive dither, A/sigma 39.8",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),32
+"2 bit, midtread, subtractive dither, A/sigma 39.8",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),32
+"1 bit, A/sigma 39.8",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),32
+"1 bit, nonsubtractive dither, A/sigma 39.8",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),32
+"1 bit, subtractive dither, A/sigma 39.8",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),32
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),34
+"4 bit, A/sigma 50.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),34
+"4 bit, nonsubtractive dither, A/sigma 50.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),34
+"4 bit, subtractive dither, A/sigma 50.1",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),34
+"4 bit, midtread, A/sigma 50.1",153,1000000,0.0001,0.000153,0.00013060269,0.00017923758,False,64,LFM (BT 64),34
+"4 bit, midtread, nonsubtractive dither, A/sigma 50.1",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),34
+"4 bit, midtread, subtractive dither, A/sigma 50.1",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),34
+"3 bit, A/sigma 50.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),34
+"3 bit, nonsubtractive dither, A/sigma 50.1",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),34
+"3 bit, subtractive dither, A/sigma 50.1",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),34
+"3 bit, midtread, A/sigma 50.1",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),34
+"3 bit, midtread, nonsubtractive dither, A/sigma 50.1",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),34
+"3 bit, midtread, subtractive dither, A/sigma 50.1",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),34
+"2 bit, A/sigma 50.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),34
+"2 bit, nonsubtractive dither, A/sigma 50.1",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),34
+"2 bit, subtractive dither, A/sigma 50.1",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),34
+"2 bit, midtread, A/sigma 50.1",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),34
+"2 bit, midtread, nonsubtractive dither, A/sigma 50.1",115,1000000,0.0001,0.000115,9.5815713e-05,0.00013802485,True,64,LFM (BT 64),34
+"2 bit, midtread, subtractive dither, A/sigma 50.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),34
+"1 bit, A/sigma 50.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),34
+"1 bit, nonsubtractive dither, A/sigma 50.1",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),34
+"1 bit, subtractive dither, A/sigma 50.1",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),34
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),36
+"4 bit, A/sigma 63.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),36
+"4 bit, nonsubtractive dither, A/sigma 63.1",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),36
+"4 bit, subtractive dither, A/sigma 63.1",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),36
+"4 bit, midtread, A/sigma 63.1",130,1000000,0.0001,0.00013,0.00010949234,0.00015434811,False,64,LFM (BT 64),36
+"4 bit, midtread, nonsubtractive dither, A/sigma 63.1",118,1000000,0.0001,0.000118,9.854448e-05,0.00014129606,True,64,LFM (BT 64),36
+"4 bit, midtread, subtractive dither, A/sigma 63.1",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),36
+"3 bit, A/sigma 63.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),36
+"3 bit, nonsubtractive dither, A/sigma 63.1",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),36
+"3 bit, subtractive dither, A/sigma 63.1",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),36
+"3 bit, midtread, A/sigma 63.1",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),36
+"3 bit, midtread, nonsubtractive dither, A/sigma 63.1",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),36
+"3 bit, midtread, subtractive dither, A/sigma 63.1",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),36
+"2 bit, A/sigma 63.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),36
+"2 bit, nonsubtractive dither, A/sigma 63.1",117,1000000,0.0001,0.000117,9.7634507e-05,0.00014020604,True,64,LFM (BT 64),36
+"2 bit, subtractive dither, A/sigma 63.1",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),36
+"2 bit, midtread, A/sigma 63.1",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),36
+"2 bit, midtread, nonsubtractive dither, A/sigma 63.1",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),36
+"2 bit, midtread, subtractive dither, A/sigma 63.1",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),36
+"1 bit, A/sigma 63.1",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),36
+"1 bit, nonsubtractive dither, A/sigma 63.1",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),36
+"1 bit, subtractive dither, A/sigma 63.1",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),36
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),38
+"4 bit, A/sigma 79.4",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),38
+"4 bit, nonsubtractive dither, A/sigma 79.4",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),38
+"4 bit, subtractive dither, A/sigma 79.4",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),38
+"4 bit, midtread, A/sigma 79.4",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),38
+"4 bit, midtread, nonsubtractive dither, A/sigma 79.4",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),38
+"4 bit, midtread, subtractive dither, A/sigma 79.4",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),38
+"3 bit, A/sigma 79.4",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),38
+"3 bit, nonsubtractive dither, A/sigma 79.4",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),38
+"3 bit, subtractive dither, A/sigma 79.4",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),38
+"3 bit, midtread, A/sigma 79.4",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),38
+"3 bit, midtread, nonsubtractive dither, A/sigma 79.4",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),38
+"3 bit, midtread, subtractive dither, A/sigma 79.4",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),38
+"2 bit, A/sigma 79.4",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),38
+"2 bit, nonsubtractive dither, A/sigma 79.4",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),38
+"2 bit, subtractive dither, A/sigma 79.4",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),38
+"2 bit, midtread, A/sigma 79.4",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),38
+"2 bit, midtread, nonsubtractive dither, A/sigma 79.4",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),38
+"2 bit, midtread, subtractive dither, A/sigma 79.4",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),38
+"1 bit, A/sigma 79.4",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),38
+"1 bit, nonsubtractive dither, A/sigma 79.4",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),38
+"1 bit, subtractive dither, A/sigma 79.4",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),38
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),40
+"4 bit, A/sigma 100",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),40
+"4 bit, nonsubtractive dither, A/sigma 100",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),40
+"4 bit, subtractive dither, A/sigma 100",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),40
+"4 bit, midtread, A/sigma 100",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),40
+"4 bit, midtread, nonsubtractive dither, A/sigma 100",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),40
+"4 bit, midtread, subtractive dither, A/sigma 100",114,1000000,0.0001,0.000114,9.4906903e-05,0.00013693367,True,64,LFM (BT 64),40
+"3 bit, A/sigma 100",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),40
+"3 bit, nonsubtractive dither, A/sigma 100",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),40
+"3 bit, subtractive dither, A/sigma 100",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),40
+"3 bit, midtread, A/sigma 100",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),40
+"3 bit, midtread, nonsubtractive dither, A/sigma 100",119,1000000,0.0001,0.000119,9.9454831e-05,0.0001423857,True,64,LFM (BT 64),40
+"3 bit, midtread, subtractive dither, A/sigma 100",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),40
+"2 bit, A/sigma 100",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),40
+"2 bit, nonsubtractive dither, A/sigma 100",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),40
+"2 bit, subtractive dither, A/sigma 100",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),40
+"2 bit, midtread, A/sigma 100",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),40
+"2 bit, midtread, nonsubtractive dither, A/sigma 100",91,1000000,0.0001,9.1e-05,7.4126027e-05,0.00011171472,True,64,LFM (BT 64),40
+"2 bit, midtread, subtractive dither, A/sigma 100",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),40
+"1 bit, A/sigma 100",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),40
+"1 bit, nonsubtractive dither, A/sigma 100",112,1000000,0.0001,0.000112,9.309048e-05,0.0001347501,True,64,LFM (BT 64),40
+"1 bit, subtractive dither, A/sigma 100",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),40
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),42
+"4 bit, A/sigma 126",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),42
+"4 bit, nonsubtractive dither, A/sigma 126",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),42
+"4 bit, subtractive dither, A/sigma 126",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),42
+"4 bit, midtread, A/sigma 126",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),42
+"4 bit, midtread, nonsubtractive dither, A/sigma 126",106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),42
+"4 bit, midtread, subtractive dither, A/sigma 126",89,1000000,0.0001,8.9e-05,7.2331514e-05,0.00010950925,True,64,LFM (BT 64),42
+"3 bit, A/sigma 126",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),42
+"3 bit, nonsubtractive dither, A/sigma 126",116,1000000,0.0001,0.000116,9.6724916e-05,0.00013911564,True,64,LFM (BT 64),42
+"3 bit, subtractive dither, A/sigma 126",121,1000000,0.0001,0.000121,0.00010127665,0.00014456387,False,64,LFM (BT 64),42
+"3 bit, midtread, A/sigma 126",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),42
+"3 bit, midtread, nonsubtractive dither, A/sigma 126",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),42
+"3 bit, midtread, subtractive dither, A/sigma 126",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),42
+"2 bit, A/sigma 126",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),42
+"2 bit, nonsubtractive dither, A/sigma 126",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),42
+"2 bit, subtractive dither, A/sigma 126",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),42
+"2 bit, midtread, A/sigma 126",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),42
+"2 bit, midtread, nonsubtractive dither, A/sigma 126",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),42
+"2 bit, midtread, subtractive dither, A/sigma 126",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),42
+"1 bit, A/sigma 126",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),42
+"1 bit, nonsubtractive dither, A/sigma 126",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),42
+"1 bit, subtractive dither, A/sigma 126",97,1000000,0.0001,9.7e-05,7.9522626e-05,0.00011831807,True,64,LFM (BT 64),42
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),44
+"4 bit, A/sigma 158",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),44
+"4 bit, nonsubtractive dither, A/sigma 158",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),44
+"4 bit, subtractive dither, A/sigma 158",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),44
+"4 bit, midtread, A/sigma 158",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),44
+"4 bit, midtread, nonsubtractive dither, A/sigma 158",111,1000000,0.0001,0.000111,9.2182878e-05,0.00013365771,True,64,LFM (BT 64),44
+"4 bit, midtread, subtractive dither, A/sigma 158",102,1000000,0.0001,0.000102,8.4033777e-05,0.00012380688,True,64,LFM (BT 64),44
+"3 bit, A/sigma 158",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),44
+"3 bit, nonsubtractive dither, A/sigma 158",103,1000000,0.0001,0.000103,8.4937443e-05,0.00012490321,True,64,LFM (BT 64),44
+"3 bit, subtractive dither, A/sigma 158",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),44
+"3 bit, midtread, A/sigma 158",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),44
+"3 bit, midtread, nonsubtractive dither, A/sigma 158",88,1000000,0.0001,8.8e-05,7.1435114e-05,0.00010840565,True,64,LFM (BT 64),44
+"3 bit, midtread, subtractive dither, A/sigma 158",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),44
+"2 bit, A/sigma 158",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),44
+"2 bit, nonsubtractive dither, A/sigma 158",105,1000000,0.0001,0.000105,8.6746154e-05,0.00012709448,True,64,LFM (BT 64),44
+"2 bit, subtractive dither, A/sigma 158",98,1000000,0.0001,9.8e-05,8.0423875e-05,0.00011941682,True,64,LFM (BT 64),44
+"2 bit, midtread, A/sigma 158",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),44
+"2 bit, midtread, nonsubtractive dither, A/sigma 158",104,1000000,0.0001,0.000104,8.5841571e-05,0.00012599907,True,64,LFM (BT 64),44
+"2 bit, midtread, subtractive dither, A/sigma 158",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),44
+"1 bit, A/sigma 158",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),44
+"1 bit, nonsubtractive dither, A/sigma 158",110,1000000,0.0001,0.00011,9.1275689e-05,0.00013256491,True,64,LFM (BT 64),44
+"1 bit, subtractive dither, A/sigma 158",95,1000000,0.0001,9.5e-05,7.7721652e-05,0.00011611906,True,64,LFM (BT 64),44
+unquantized,106,1000000,0.0001,0.000106,8.7651188e-05,0.00012818944,True,64,LFM (BT 64),46
+"4 bit, A/sigma 200",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),46
+"4 bit, nonsubtractive dither, A/sigma 200",92,1000000,0.0001,9.2e-05,7.5024121e-05,0.00011281662,True,64,LFM (BT 64),46
+"4 bit, subtractive dither, A/sigma 200",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),46
+"4 bit, midtread, A/sigma 200",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),46
+"4 bit, midtread, nonsubtractive dither, A/sigma 200",120,1000000,0.0001,0.00012,0.00010036555,0.00014347497,False,64,LFM (BT 64),46
+"4 bit, midtread, subtractive dither, A/sigma 200",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),46
+"3 bit, A/sigma 200",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),46
+"3 bit, nonsubtractive dither, A/sigma 200",107,1000000,0.0001,0.000107,8.8556664e-05,0.00012928396,True,64,LFM (BT 64),46
+"3 bit, subtractive dither, A/sigma 200",109,1000000,0.0001,0.000109,9.0368921e-05,0.00013147169,True,64,LFM (BT 64),46
+"3 bit, midtread, A/sigma 200",101,1000000,0.0001,0.000101,8.313058e-05,0.00012271009,True,64,LFM (BT 64),46
+"3 bit, midtread, nonsubtractive dither, A/sigma 200",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),46
+"3 bit, midtread, subtractive dither, A/sigma 200",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),46
+"2 bit, A/sigma 200",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),46
+"2 bit, nonsubtractive dither, A/sigma 200",113,1000000,0.0001,0.000113,9.399849e-05,0.00013584209,True,64,LFM (BT 64),46
+"2 bit, subtractive dither, A/sigma 200",94,1000000,0.0001,9.4e-05,7.6821942e-05,0.00011501878,True,64,LFM (BT 64),46
+"2 bit, midtread, A/sigma 200",100,1000000,0.0001,0.0001,8.222786e-05,0.00012161282,True,64,LFM (BT 64),46
+"2 bit, midtread, nonsubtractive dither, A/sigma 200",96,1000000,0.0001,9.6e-05,7.8621882e-05,0.00011721882,True,64,LFM (BT 64),46
+"2 bit, midtread, subtractive dither, A/sigma 200",90,1000000,0.0001,9e-05,7.3228488e-05,0.00011061226,True,64,LFM (BT 64),46
+"1 bit, A/sigma 200",99,1000000,0.0001,9.9e-05,8.1325622e-05,0.00012051506,True,64,LFM (BT 64),46
+"1 bit, nonsubtractive dither, A/sigma 200",108,1000000,0.0001,0.000108,8.9462577e-05,0.00013037804,True,64,LFM (BT 64),46
+"1 bit, subtractive dither, A/sigma 200",93,1000000,0.0001,9.3e-05,7.5922763e-05,0.00011391797,True,64,LFM (BT 64),46
